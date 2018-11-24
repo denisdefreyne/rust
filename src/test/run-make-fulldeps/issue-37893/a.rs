@@ -8,5 +8,8 @@
 // option. This file may not be copied, modified, or distributed
 // except according to those terms.
 
+// force-host
+// no-prefer-dynamic
+
 #![allow(unused)]
 #![crate_type = "proc-macro"]
